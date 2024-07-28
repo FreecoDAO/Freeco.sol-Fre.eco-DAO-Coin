@@ -1,7 +1,7 @@
- {
+{
   "name": "Free Eco DAO Coin",
   "symbol": "Fre.eco",
-  "description": "Utility and voting token of the Free Eco (Fre.eco) DAO & Bio Marketplace 3.0 ecosystem, which enables holders to buy 100% BIO ORGANIC VEGAN products and services for fiat and crypto, participate in decision-making processes, donate and invest into eco-friendly sustainable projects, propose initiatives, vote on matters vital to the project's development and growth. Backed by the Free Eco Association & DAO, headquartered in Geneva, Switzerland. Our mission is to promote the sustainable eco-friendly way of life, to support eco projects and empower individuals, businesses and communities to embrace Eco-friendly practices.",
+  "description": "Unique pioneering utility and voting token for the Swiss and global eco-friendly community. Our FreEco DAO (Donors Automated Organization) platform, backed by the Free Eco Association & DAO, headquartered in Geneva, Switzerland, empowers individuals, businesses, and communities to promote sustainable living, support organic vegan Bio products and services, and contribute to groundbreaking eco-projects. Join our collaborative ecosystem and DAO on https://app.realms.today/dao/Fre.ecohttps://app.realms.today/dao/Fre.eco to be a part of the eco-friendly evolution, shaping happy green future for the Planet and all earthlings!",
   "image": "https://postimg.cc/xcN0k9BD",
   "attributes": [
     {
@@ -10,11 +10,11 @@
     },
     {
       "trait_type": "Ecosystem",
-      "value": "Fre.eco DAO & Bio marketplace"
+      "value": "Free Eco DAO & Bio marketplace"
     },
     {
       "trait_type": "Backing Organization",
-      "value": "Fre.eco Association & DAO"
+      "value": "Free Eco Association & DAO"
     },
     {
       "trait_type": "Location",
@@ -39,49 +39,18 @@
     {
       "trait_type": "YouTube",
       "value": "@Fre.ecoDAO"
-    }
-  ]
-}{
-  "name": "Freeco.sol Bio Coin",
-  "symbol": "Fre.eco",
-  "description": "Fre.eco Association & DAO, headquartered in Geneva, Switzerland, nurtures the development of the Fre.eco DAO & Bio market ecosystem. Our mission is to promote sustainable eco-friendly way of life, support eco projects and empower individuals, businesses, and communities to embrace Eco-friendly practices. DAO enables holders of FreEco.sol Bio Coin (Fre.eco), utility and voting token of Fre.eco DAO & FreEco.Bio Marketplace 3.0 for 100% BIO ORGANIC VEGAN products and services with fiat and crypto payments, to participate in decision-making processes, donate and invest into eco friendly sustainable projects, propose initiatives, vote on matters vital to the platform's development and growth.",
-  "image": "https://i.postimg.cc/pXqy6TZT/Fre-Eco-sol-BIO-DAO-COIN.png",
-  "attributes": [
-    {
-      "trait_type": "Token type",
-      "value": "Utility and voting token"
     },
     {
-      "trait_type": "Ecosystem",
-      "value": "Fre.eco DAO & Bio market"
+      "trait_type": "Slogan",
+      "value": "Be Free! Be Eco ! Go Fre.eco!"
     },
     {
-      "trait_type": "Backing Organization",
-      "value": "Fre.eco Association & DAO"
+      "trait_type": "Keywords",
+      "value": "Eco-friendly, Sustainable, Vegan, Community-driven, Innovation, Green Technology, Environmental Conservation, Social Impact"
     },
     {
-      "trait_type": "Location",
-      "value": "Geneva, Switzerland"
-    },
-    {
-      "trait_type": "Donation Address",
-      "value": "freeco.sol"
-    },
-    {
-      "trait_type": "Website",
-      "value": "fre.eco"
-    },
-    {
-      "trait_type": "Twitter",
-      "value": "@FreEcoDAO"
-    },
-    {
-      "trait_type": "Telegram",
-      "value": "t.me/FreEcoDAO"
-    },
-    {
-      "trait_type": "YouTube",
-      "value": "@Fre.ecoDAO"
+      "trait_type": "DAO Platform",
+      "value": "https://app.realms.today/dao/Fre.eco"
     }
   ]
 }
